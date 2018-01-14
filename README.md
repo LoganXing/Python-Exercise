@@ -1,2 +1,2 @@
 # Python-Exercise
-This is for exercise Python Program using.
+This is for exercise Python program using.
